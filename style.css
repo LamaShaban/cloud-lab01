@@ -1,0 +1,16 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.red-rectangle{
+    width:250px;
+    height:200px;
+    background-color:#e90404;
+    color: #fff;
+    font-size:32px;
+    font-weight: 600;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
